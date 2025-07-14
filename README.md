@@ -1,6 +1,6 @@
 # PX4-ROS2 bridge
 
-Customized PX4 ROS2 offboard control based on the official example.
+Customized PX4 ROS2 offboard control based on the [official example](https://github.com/PX4/px4_ros_com).
 
 # Original README.md
 
